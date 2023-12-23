@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e41f03ed-0de3-43ac-a891-e677c2c9922e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache\MavenLib\repository" />
+        <option name="mavenHome" value="D:/apache/maven_3.5.4" />
+        <option name="userSettingsFile" value="D:\apache\maven_3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="290xLRMWvdDMYPcMcdGc7JWM4qs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../outside_lib/dealAnomaly.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhu.edu.DemoApplication" />
+      <module name="test_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhu.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhu.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dhu.edu.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test_spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dhu.edu.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_demo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52176" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e41f03ed-0de3-43ac-a891-e677c2c9922e" name="Default Changelist" comment="" />
+      <created>1652263747392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652263747392</updated>
+      <workItem from="1652263755194" duration="6728000" />
+      <workItem from="1652289548509" duration="1950000" />
+      <workItem from="1652329007838" duration="5231000" />
+      <workItem from="1652361396457" duration="1064000" />
+      <workItem from="1652369553254" duration="1726000" />
+      <workItem from="1652373941013" duration="5317000" />
+      <workItem from="1652411985234" duration="3473000" />
+      <workItem from="1652423695140" duration="4517000" />
+      <workItem from="1652593169235" duration="2016000" />
+      <workItem from="1652617857010" duration="1200000" />
+      <workItem from="1652670122746" duration="6425000" />
+      <workItem from="1652680936553" duration="7591000" />
+      <workItem from="1652701318313" duration="6399000" />
+      <workItem from="1652708055349" duration="4985000" />
+      <workItem from="1652717145012" duration="3989000" />
+      <workItem from="1652724527503" duration="150000" />
+      <workItem from="1652727543295" duration="3507000" />
+      <workItem from="1652731631032" duration="4299000" />
+      <workItem from="1652748498875" duration="4371000" />
+      <workItem from="1653032260829" duration="715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1652362597404">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.826@0.0.1536.826" timestamp="1652362597404" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652264966499">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826@0.0.1536.826" timestamp="1652264966499" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1652264961924">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.826@0.0.1536.826" timestamp="1652264961924" />
+    <state x="1001" y="144" key="FileChooserDialogImpl" timestamp="1652737536460">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="1001" y="144" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1652737536460" />
+    <state width="1492" height="142" key="GridCell.Tab.0.bottom" timestamp="1653036055847">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="142" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1653036055847" />
+    <state width="1492" height="142" key="GridCell.Tab.0.center" timestamp="1653036055846">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="142" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1653036055846" />
+    <state width="1492" height="142" key="GridCell.Tab.0.left" timestamp="1653036055846">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="142" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1653036055846" />
+    <state width="1492" height="142" key="GridCell.Tab.0.right" timestamp="1653036055847">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="142" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1653036055847" />
+    <state width="1492" height="209" key="GridCell.Tab.1.bottom" timestamp="1652268636066">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1652268636066" />
+    <state width="1492" height="209" key="GridCell.Tab.1.center" timestamp="1652268636066">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1652268636066" />
+    <state width="1492" height="209" key="GridCell.Tab.1.left" timestamp="1652268636066">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1652268636066" />
+    <state width="1492" height="209" key="GridCell.Tab.1.right" timestamp="1652268636066">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1652268636066" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1652737539166">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1652737539166" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1652731637339">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1652731637339" />
+    <state x="524" y="239" width="715" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1652290059767">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="524" y="239" width="715" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.826@0.0.1536.826" timestamp="1652290059767" />
+  </component>
+</project>
