@@ -1,5 +1,5 @@
 # Signal-Quality-Assessment-for-Ballistocardiography-and-Its-Application
-Undergraduate Graduation Project <br>
+Graduation Project <br>
 Back-End Server：jdk11.0.2，maven3.5.4，Redis3.0.504 <br>
 Front_End Server：npm6.14.12，Vue2.5.2，Vue-cli2.9.6 <br>
 
